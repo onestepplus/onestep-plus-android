@@ -1,6 +1,6 @@
 package plus.onestep.lib.util;
 
-public class Demo {
+public class UtilTest {
 
     public static void test(){
         System.out.println("xx");
