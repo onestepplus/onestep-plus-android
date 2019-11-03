@@ -16,5 +16,4 @@
 *.sh
 *.log
 output.json
-gradle/
 
